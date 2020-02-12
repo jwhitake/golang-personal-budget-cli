@@ -7,5 +7,5 @@ type Budget struct {
 
 type Item struct {
 	Description string
-	privae      float32
+	Price       float32
 }
